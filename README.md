@@ -7,7 +7,7 @@ Moro no Rio de Janeiro.
 
 Sou formada em Administração.
 
-Estou cursando programação de front-end no Vai na Web.
+Cursando programação de front-end no Vai na Web.
 
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Rafaela-arievilO&show_icons=true&theme=radical"/>

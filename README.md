@@ -1,6 +1,10 @@
+Olá, meu nome é Rafaela 🌼
+
 Moro no Rio de Janeiro.
+
 Sou formada em Administração.
-Cursando programação de front-end no Vai na Web.
+
+Estou cursando programação de front-end no Vai na Web.
 
 <!--
 **Rafaela-arievilO/Rafaela-arievilO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

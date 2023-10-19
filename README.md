@@ -1,6 +1,6 @@
 <h2>
 Olá, meu nome é Rafaela 🦋
-<img src="/https://www.google.com/searchq=giphy+borboleta+azul&sca_esv=573634593&tbm=isch&sxsrf=AM9HkKngwdDJKGmy0ORcyftglUOXrMCCpg:1697399472299&source=lnms&sa=X&ved=2ahUKEwiejdrk6fiBAxWvs5UCHQxdCSQQ_AUoAXoECAEQAw&biw=1366&bih=651&dpr=1#imgrc=vcO8Wt6hLXPzSM" width="100">
+<img src="/" width="100">
 </h2>
 
 Moro no Rio de Janeiro.
